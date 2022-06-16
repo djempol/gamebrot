@@ -2,11 +2,11 @@
   "ADS": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads": "",
+      "select_backup_ads": "ADMOB",
       "main_ads_banner": "ca-app-pub-6221700916926460/3302919839",
       "main_ads_intertitial": "ca-app-pub-6221700916926460/9676756496",
-      "backup_ads_banner": "",
-      "backup_ads_intertitial": "",
+      "backup_ads_banner": "ca-app-pub-9992494537594419/4425104207",
+      "backup_ads_intertitial": "ca-app-pub-9992494537594419/6859695851",
       "initialize_sdk": "",
       "initialize_sdk_backup_ads": "",
       "interstitial_counter": "1",
